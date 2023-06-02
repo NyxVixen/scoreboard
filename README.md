@@ -1,9 +1,21 @@
-# scoreboard
+# co5084e7c930cc94c60ef48ab
 
-**Scoredboard Project**
+Quick start:
 
-Project made for the frontend developer path on Scrimba.
+```
+$ npm install
+$ npm start
+````
 
-When interacting with the app, all buttons should work according to the respective label. (i.e. +1 under the "home" score should add one to the corresponding score, and +3 under the "guest" score should add three to the corresponding score) All elements should be evenly spaced and proportionate. The background should scale with the size of the window, with no repeat and a fixed attachment. Single clicks should be utilized and work for adding points, and a double-click should be utilized and work appropriately for the newGame() function
+Head over to https://vitejs.dev/ to learn more about using vite
+## About Scrimba
 
-To use this app, create a copy locally, and utilize *npm install*, then *npm start* to initiate.
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+
+Happy Coding!
